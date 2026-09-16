@@ -268,5 +268,185 @@
     "meaning": "減らす",
     "etymology": "re(戻す) + duce(導く) → 元の小さい状態へ戻す",
     "example": "We need to reduce waste."
+  },
+  {
+    "id": "031",
+    "word": "contact",
+    "ipa": "/ˈkɑːntækt/",
+    "katakana": "コンタクト",
+    "meaning": "接触、連絡する",
+    "etymology": "con(共に) + tact(tapのように触れる) → 一緒に触れる → 接触",
+    "example": "Please contact me if you have any questions."
+  },
+  {
+    "id": "032",
+    "word": "center",
+    "ipa": "/ˈsentər/",
+    "katakana": "センター",
+    "meaning": "中心、中心に置く",
+    "etymology": "center(中心) → 真ん中に置く",
+    "example": "The city center is very crowded."
+  },
+  {
+    "id": "033",
+    "word": "connect",
+    "ipa": "/kəˈnekt/",
+    "katakana": "コネクト",
+    "meaning": "つなぐ、接続する",
+    "etymology": "con(共に) + nect(結ぶ) → 一緒に結ぶ",
+    "example": "The bridge connects two towns."
+  },
+  {
+    "id": "034",
+    "word": "communicate",
+    "ipa": "/kəˈmjuːnɪkeɪt/",
+    "katakana": "コミュニケート",
+    "meaning": "伝える、意思疎通する",
+    "etymology": "com(共に) + mun(共有する) → 情報を共有する",
+    "example": "People communicate in many different ways."
+  },
+  {
+    "id": "035",
+    "word": "compare",
+    "ipa": "/kəmˈper/",
+    "katakana": "コンペア",
+    "meaning": "比較する",
+    "etymology": "com(共に) + pare(並べる) → 並べて見る",
+    "example": "We compared the two products."
+  },
+  {
+    "id": "036",
+    "word": "complete",
+    "ipa": "/kəmˈpliːt/",
+    "katakana": "コンプリート",
+    "meaning": "完成した、完了する",
+    "etymology": "com(完全に) + plete(満たす) → 完全に満たす",
+    "example": "She completed the project on time."
+  },
+  {
+    "id": "037",
+    "word": "construct",
+    "ipa": "/kənˈstrʌkt/",
+    "katakana": "コンストラクト",
+    "meaning": "建設する、組み立てる",
+    "etymology": "con(共に) + struct(積む) → 一緒に積み上げる",
+    "example": "They constructed a new building."
+  },
+  {
+    "id": "038",
+    "word": "destroy",
+    "ipa": "/dɪˈstrɔɪ/",
+    "katakana": "デストロイ",
+    "meaning": "破壊する",
+    "etymology": "de(離す) + stroy(建てる) → 建てたものを崩す",
+    "example": "The fire destroyed many houses."
+  },
+  {
+    "id": "039",
+    "word": "discover",
+    "ipa": "/dɪˈskʌvər/",
+    "katakana": "ディスカバー",
+    "meaning": "発見する",
+    "etymology": "dis(離れて) + cover(覆う) → 覆いを取る",
+    "example": "Scientists discovered a new species."
+  },
+  {
+    "id": "040",
+    "word": "discuss",
+    "ipa": "/dɪˈskʌs/",
+    "katakana": "ディスカス",
+    "meaning": "議論する",
+    "etymology": "dis(分ける) + cuss(揺さぶる) → 考えをぶつけ合う",
+    "example": "We discussed the problem together."
+  },
+  {
+    "id": "041",
+    "word": "education",
+    "ipa": "/ˌedʒuˈkeɪʃən/",
+    "katakana": "エデュケーション",
+    "meaning": "教育",
+    "etymology": "e(外へ) + duc(導く) → 能力を引き出す",
+    "example": "Education is important for everyone."
+  },
+  {
+    "id": "042",
+    "word": "effect",
+    "ipa": "/ɪˈfekt/",
+    "katakana": "エフェクト",
+    "meaning": "効果、影響",
+    "etymology": "ex(外へ) + fact(作る) → 結果として作られたもの",
+    "example": "The medicine had a positive effect."
+  },
+  {
+    "id": "043",
+    "word": "efficient",
+    "ipa": "/ɪˈfɪʃənt/",
+    "katakana": "エフィシェント",
+    "meaning": "効率的な",
+    "etymology": "ex(外へ) + fic(作る) → 効果を生み出す",
+    "example": "This machine is very efficient."
+  },
+  {
+    "id": "044",
+    "word": "expand",
+    "ipa": "/ɪkˈspænd/",
+    "katakana": "エクスパンド",
+    "meaning": "拡大する",
+    "etymology": "ex(外へ) + pand(広げる) → 外へ広げる",
+    "example": "The company plans to expand overseas."
+  },
+  {
+    "id": "045",
+    "word": "export",
+    "ipa": "/ˈekspɔːrt/",
+    "katakana": "エクスポート",
+    "meaning": "輸出する",
+    "etymology": "ex(外へ) + port(運ぶ) → 外へ運ぶ",
+    "example": "Japan exports many cars."
+  },
+  {
+    "id": "046",
+    "word": "import",
+    "ipa": "/ˈɪmpɔːrt/",
+    "katakana": "インポート",
+    "meaning": "輸入する、重要性",
+    "etymology": "im(中へ) + port(運ぶ) → 中へ運ぶ",
+    "example": "The country imports food from abroad."
+  },
+  {
+    "id": "047",
+    "word": "improve",
+    "ipa": "/ɪmˈpruːv/",
+    "katakana": "インプルーブ",
+    "meaning": "改善する",
+    "etymology": "im(中へ) + prove(良くする) → 良い方向へ進める",
+    "example": "Practice will improve your skills."
+  },
+  {
+    "id": "048",
+    "word": "increase",
+    "ipa": "/ɪnˈkriːs/",
+    "katakana": "インクリース",
+    "meaning": "増加する、増やす",
+    "etymology": "in(中へ) + crease(成長する) → 中で大きくなる",
+    "example": "The population continues to increase."
+  },
+  {
+    "id": "049",
+    "word": "introduce",
+    "ipa": "/ˌɪntrəˈduːs/",
+    "katakana": "イントロデュース",
+    "meaning": "紹介する、導入する",
+    "etymology": "intro(中へ) + duce(導く) → 中へ導く",
+    "example": "Let me introduce my friend."
+  },
+  {
+    "id": "050",
+    "word": "produce",
+    "ipa": "/prəˈduːs/",
+    "katakana": "プロデュース",
+    "meaning": "生産する、生み出す",
+    "etymology": "pro(前へ) + duce(導く) → 前へ導き出す",
+    "example": "The factory produces cars."
   }
 ]
