@@ -1,0 +1,272 @@
+[
+  {
+    "id": "001",
+    "word": "abandon",
+    "ipa": "/əˈbændən/",
+    "katakana": "アバンダン",
+    "meaning": "捨てる、放棄する",
+    "etymology": "a(離れて) + band(束縛) → 束縛から離して置いていく",
+    "example": "The government abandoned the plan because of its high cost."
+  },
+  {
+    "id": "002",
+    "word": "benefit",
+    "ipa": "/ˈbenɪfɪt/",
+    "katakana": "ベネフィット",
+    "meaning": "利益、恩恵、役に立つ",
+    "etymology": "bene(良い) + fit(行う) → 良いことをする → 恩恵",
+    "example": "Exercise has many health benefits."
+  },
+  {
+    "id": "003",
+    "word": "contribute",
+    "ipa": "/kənˈtrɪbjuːt/",
+    "katakana": "コントリビュート",
+    "meaning": "貢献する、寄与する",
+    "etymology": "con(共に) + tribute(与える) → 一緒に与える → 貢献する",
+    "example": "Everyone should contribute to protecting the environment."
+  },
+  {
+    "id": "004",
+    "word": "decline",
+    "ipa": "/dɪˈklaɪn/",
+    "katakana": "ディクライン",
+    "meaning": "減少する、衰える、断る",
+    "etymology": "de(下へ) + cline(傾く) → 下向きに傾く",
+    "example": "The population of the town has declined."
+  },
+  {
+    "id": "005",
+    "word": "environment",
+    "ipa": "/ɪnˈvaɪrənmənt/",
+    "katakana": "インヴァイロンメント",
+    "meaning": "環境",
+    "etymology": "en(中に) + viron(周囲) → 周りを取り囲むもの",
+    "example": "We must protect the natural environment."
+  },
+  {
+    "id": "006",
+    "word": "essential",
+    "ipa": "/ɪˈsenʃəl/",
+    "katakana": "エッセンシャル",
+    "meaning": "不可欠な、本質的な",
+    "etymology": "essence(本質) + ial(性質) → 本質に関わるもの",
+    "example": "Water is essential for life."
+  },
+  {
+    "id": "007",
+    "word": "feature",
+    "ipa": "/ˈfiːtʃər/",
+    "katakana": "フィーチャー",
+    "meaning": "特徴、特徴づける",
+    "etymology": "feature(顔つき・形) → 目立つ部分",
+    "example": "The main feature of this product is its design."
+  },
+  {
+    "id": "008",
+    "word": "generate",
+    "ipa": "/ˈdʒenəreɪt/",
+    "katakana": "ジェネレート",
+    "meaning": "生み出す、発生させる",
+    "etymology": "gen(生む) + ate(する) → 生み出す",
+    "example": "Solar panels generate electricity."
+  },
+  {
+    "id": "009",
+    "word": "impact",
+    "ipa": "/ˈɪmpækt/",
+    "katakana": "インパクト",
+    "meaning": "影響、衝撃",
+    "etymology": "im(中へ) + pact(打つ) → 中へ打ち込む → 強い影響",
+    "example": "Technology has changed our lives and had a huge impact."
+  },
+  {
+    "id": "010",
+    "word": "indicate",
+    "ipa": "/ˈɪndɪkeɪt/",
+    "katakana": "インディケイト",
+    "meaning": "示す",
+    "etymology": "in(中へ) + dic(言う・示す) → 指し示す",
+    "example": "The results indicate that the plan worked."
+  },
+  {
+    "id": "011",
+    "word": "maintain",
+    "ipa": "/meɪnˈteɪn/",
+    "katakana": "メインテイン",
+    "meaning": "維持する",
+    "etymology": "main(手) + tain(持つ) → 手で持ち続ける",
+    "example": "It is important to maintain a healthy lifestyle."
+  },
+  {
+    "id": "012",
+    "word": "obtain",
+    "ipa": "/əbˈteɪn/",
+    "katakana": "オブテイン",
+    "meaning": "得る、手に入れる",
+    "etymology": "ob(～に向かって) + tain(持つ) → 手に持つところまで行く",
+    "example": "You need permission to obtain this information."
+  },
+  {
+    "id": "013",
+    "word": "participate",
+    "ipa": "/pɑːrˈtɪsəpeɪt/",
+    "katakana": "パーティシペイト",
+    "meaning": "参加する",
+    "etymology": "part(部分) + cip(取る) → 一部分を取る → 加わる",
+    "example": "Many students participated in the event."
+  },
+  {
+    "id": "014",
+    "word": "prevent",
+    "ipa": "/prɪˈvent/",
+    "katakana": "プリベント",
+    "meaning": "防ぐ",
+    "etymology": "pre(前に) + vent(来る) → 前に来て止める",
+    "example": "This medicine prevents disease."
+  },
+  {
+    "id": "015",
+    "word": "require",
+    "ipa": "/rɪˈkwaɪər/",
+    "katakana": "リクワイア",
+    "meaning": "必要とする、要求する",
+    "etymology": "re(強調) + quire(求める) → 強く求める",
+    "example": "This job requires special skills."
+  },
+  {
+    "id": "016",
+    "word": "responsibility",
+    "ipa": "/rɪˌspɑːnsəˈbɪləti/",
+    "katakana": "レスポンシビリティ",
+    "meaning": "責任",
+    "etymology": "response(応答) + ability(能力) → 応える能力",
+    "example": "Everyone has a responsibility to protect nature."
+  },
+  {
+    "id": "017",
+    "word": "significant",
+    "ipa": "/sɪɡˈnɪfɪkənt/",
+    "katakana": "シグニフィカント",
+    "meaning": "重要な、意味のある",
+    "etymology": "sign(印) + fic(作る) → 印を作るほど重要",
+    "example": "The discovery was a significant achievement."
+  },
+  {
+    "id": "018",
+    "word": "specific",
+    "ipa": "/spəˈsɪfɪk/",
+    "katakana": "スペシフィック",
+    "meaning": "具体的な、特定の",
+    "etymology": "spec(見る) + fic(作る) → はっきり見える形にする",
+    "example": "Please give me specific examples."
+  },
+  {
+    "id": "019",
+    "word": "strategy",
+    "ipa": "/ˈstrætədʒi/",
+    "katakana": "ストラテジー",
+    "meaning": "戦略",
+    "etymology": "strateg(軍を率いる) → 勝つための計画",
+    "example": "The company needs a new strategy."
+  },
+  {
+    "id": "020",
+    "word": "suffer",
+    "ipa": "/ˈsʌfər/",
+    "katakana": "サファー",
+    "meaning": "苦しむ、被害を受ける",
+    "etymology": "sub(下で) + fer(運ぶ) → 重荷を背負う",
+    "example": "Many people suffer from poverty."
+  },
+  {
+    "id": "021",
+    "word": "tend",
+    "ipa": "/tend/",
+    "katakana": "テンド",
+    "meaning": "傾向がある",
+    "etymology": "tend(伸ばす・向ける) → ある方向へ向かう",
+    "example": "Young people tend to use social media."
+  },
+  {
+    "id": "022",
+    "word": "transform",
+    "ipa": "/trænsˈfɔːrm/",
+    "katakana": "トランスフォーム",
+    "meaning": "変形させる、大きく変える",
+    "etymology": "trans(越えて) + form(形) → 形を越えて変える",
+    "example": "The Internet transformed communication."
+  },
+  {
+    "id": "023",
+    "word": "vary",
+    "ipa": "/ˈveri/",
+    "katakana": "ヴェアリー",
+    "meaning": "変化する、異なる",
+    "etymology": "var(変わる) → 一定ではない",
+    "example": "Prices vary depending on the season."
+  },
+  {
+    "id": "024",
+    "word": "appropriate",
+    "ipa": "/əˈproʊpriət/",
+    "katakana": "アプロプリエイト",
+    "meaning": "適切な",
+    "etymology": "ap(～へ) + propr(自分のもの) → 状況に合ったもの",
+    "example": "Choose appropriate clothes for the occasion."
+  },
+  {
+    "id": "025",
+    "word": "consume",
+    "ipa": "/kənˈsuːm/",
+    "katakana": "コンシューム",
+    "meaning": "消費する",
+    "etymology": "con(完全に) + sume(取る) → 取り尽くす",
+    "example": "People consume too much energy."
+  },
+  {
+    "id": "026",
+    "word": "determine",
+    "ipa": "/dɪˈtɜːrmɪn/",
+    "katakana": "ディターミン",
+    "meaning": "決定する、決める",
+    "etymology": "de(完全に) + termine(境界) → 境界を決める",
+    "example": "The test will determine your level."
+  },
+  {
+    "id": "027",
+    "word": "encourage",
+    "ipa": "/ɪnˈkɜːrɪdʒ/",
+    "katakana": "エンカレッジ",
+    "meaning": "励ます、促す",
+    "etymology": "en(中に入れる) + courage(勇気) → 勇気を入れる",
+    "example": "Teachers encourage students to study."
+  },
+  {
+    "id": "028",
+    "word": "influence",
+    "ipa": "/ˈɪnfluəns/",
+    "katakana": "インフルエンス",
+    "meaning": "影響、影響を与える",
+    "etymology": "in(中へ) + flu(流れる) → 中へ流れ込む",
+    "example": "Parents influence their children."
+  },
+  {
+    "id": "029",
+    "word": "opportunity",
+    "ipa": "/ˌɑːpərˈtuːnəti/",
+    "katakana": "オポチュニティ",
+    "meaning": "機会",
+    "etymology": "op(向かって) + port(港) → 船が港へ入る好機",
+    "example": "This is a great opportunity to learn."
+  },
+  {
+    "id": "030",
+    "word": "reduce",
+    "ipa": "/rɪˈduːs/",
+    "katakana": "リデュース",
+    "meaning": "減らす",
+    "etymology": "re(戻す) + duce(導く) → 元の小さい状態へ戻す",
+    "example": "We need to reduce waste."
+  }
+]
